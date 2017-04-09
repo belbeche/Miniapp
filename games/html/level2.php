@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php require '../../includes/connect.phpp';
+?><!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="utf-8"/>

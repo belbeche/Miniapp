@@ -9,7 +9,7 @@
         <title>Résult</title>
         <meta charset="utf-8"/>
         <link rel="stylesheet" type="text/css" href="../css/styles.css"/>
-        <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="../css/bootstrap.min.css">
         <meta name="description" content="MiniApplications">
         <meta name="author" content="walid Belbeche">
         <link rel="icon" href="../../favicon.ico">

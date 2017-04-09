@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php require '../../includes/connect.php';
+?><!DOCTYPE html>
 <html>
 <head>
 	<title>Cons</title>

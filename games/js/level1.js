@@ -20,7 +20,7 @@ function myFunction() {
 
     // Si le nombre est est égal à 1 ou à 160 alors OK 
     if (isNaN(input) || input < 1 || input > 160) {
-        text = "Input not valid";
+        text = "Veuillez rentrez un chiffre compris entre 1 et 160";
     } else {
         text = "Age" + ":" + input;
     }

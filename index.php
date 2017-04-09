@@ -1,3 +1,6 @@
+<?php 
+require 'includes/connect.php';
+?>
 <!doctype html>
 <html>
 
@@ -46,7 +49,7 @@
                 <p>Etage 1 : Cette salle est ouverte .</p>
                 <br/>
                 <p>Que ce passe t'il derrîere ? </p>
-                <p><a class="btn btn-default" href="games/html/level1.html" role="button">Commençais l'aventure &raquo;</a></p>
+                <p><a class="btn btn-default" href="games/html/level1.php" role="button">Commençais l'aventure &raquo;</a></p>
             </div>
             <!--  / Level 1  -->
             <!-- Level 2 -->
@@ -54,14 +57,14 @@
                 <h2>Etage 2 : Tu veut en savoir d'avantage ?</h2>
                 <br/>
                 <p>Alors ne tarde pas trop.</p>
-                <p><a class="btn btn-default" href="games/html/level2.html" role="button">Level 2 &raquo;</a></p>
+                <p><a class="btn btn-default" href="games/html/level2.php" role="button">Level 2 &raquo;</a></p>
             </div><!-- Level 2 -->
             <!-- Level 3 -->
             <div class="col-lg-4"> <img class="img-circle" src="css/image/nv3.png" alt="Generic placeholder image" width="140" height="140">
                 <h2>Etage 3</h2>
                 <br/>
                 <p>Description etape.</p>
-                <p><a class="btn btn-default" href="games/html/level3.html" role="button">Level 3 &raquo;</a></p>
+                <p><a class="btn btn-default" href="games/html/level3.php" role="button">Level 3 &raquo;</a></p>
             </div><!-- Level 3 -->
         </div><!-- Fin class row -->
     </div><!-- Fin annonces -->

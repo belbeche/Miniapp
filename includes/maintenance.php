@@ -3,6 +3,6 @@
     </form>
 <?php 
     if (isset($_POST['submit']) ? $_POST['submit'] : NULL){
-        echo "En maintenance";
+        echo "Maintenance";
     }
 ?>
